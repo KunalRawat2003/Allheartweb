@@ -11,8 +11,8 @@ headers = {
 
 csv.field_size_limit(2**31 - 1)
 
-BATCH_START = 780000
-BATCH_END = 785000
+BATCH_START = 785000
+BATCH_END = 785500
 CONCURRENT_REQUESTS = 100
 RETRIES = 1
 TIMEOUT = ClientTimeout(total=20)
@@ -33,8 +33,6 @@ with open("newdomains.txt", "r") as f:
     all_domains = [d.strip() for d in f if d.strip()]
     domains = all_domains[BATCH_START:BATCH_END]
 
-def process_value(value):
-    return value.replace(',', ';') if value and ',' in value else value
 
 async def fetch(session: ClientSession, domain: str, retries=RETRIES):
     for protocol in ["https", "http"]:
@@ -58,32 +56,32 @@ async def fetch(session: ClientSession, domain: str, retries=RETRIES):
                     key = (tag.get("name") or tag.get("property") or tag.get("itemprop") or "").lower().strip()
                     value = tag.get("content", "").strip()
                     if key == "title":
-                        values["meta:title"] = process_value(value)
+                        values["meta:title"] = (value)
 
                 for tag in soup.find_all("meta"):
                     if tag.get("charset"):
-                        meta_tags["charset"] = process_value(tag.get("charset").strip())
+                        meta_tags["charset"] = (tag.get("charset").strip())
                         continue
                     key = (tag.get("name") or tag.get("property") or tag.get("itemprop") or "").lower().strip()
                     value = tag.get("content", "").strip()
                     if not key or not value:
                         continue
-                    values[key] = process_value(value)
+                    values[key] = (value)
 
                 canonical = soup.find("link", rel="canonical")
                 if canonical and canonical.get("href"):
-                    values["canonical"] = process_value(canonical.get("href").strip())
+                    values["canonical"] = (canonical.get("href").strip())
 
                 favicon = soup.find("link", rel="icon") or soup.find("link", rel="shortcut icon")
                 if favicon and favicon.get("href"):
-                    values["favicon"] = process_value(favicon.get("href").strip())
+                    values["favicon"] = (favicon.get("href").strip())
 
                 for tag in ["og:type", "og:image", "twitter:image", "twitter:card",
                             "theme-color", "mobile-web-app-capable", "apple-mobile-web-app-title",
                             "apple-mobile-web-app-status-bar-style", "google-site-verification", "msvalidate.01"]:
                     meta = soup.find("meta", attrs={"name": tag}) or soup.find("meta", attrs={"property": tag})
                     if meta and meta.get("content"):
-                        values[tag] = process_value(meta.get("content").strip())
+                        values[tag] = (meta.get("content").strip())
 
                 def dedup_fields(field_group):
                     seen, final_values = set(), {}
@@ -103,7 +101,7 @@ async def fetch(session: ClientSession, domain: str, retries=RETRIES):
 
                 for k, v in {**values, **title_vals, **desc_vals, **url_vals}.items():
                     if k in meta_tags:
-                        meta_tags[k] = process_value(v)
+                        meta_tags[k] = (v)
 
                 return domain, meta_tags
 
