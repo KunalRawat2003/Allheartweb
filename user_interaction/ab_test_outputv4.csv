@@ -1,0 +1,124 @@
+domain,ab_configuration,detected_platforms,ab_tool_scripts
+instagram.com,goal::slider-track-filled-disabled=#5D6C7B;goal::slider-track-filled-disabled=#96A6B4;goal::slider-track-filled=#0064E0;goal::slider-track-filled=#0082FB;goal::slider-track-unfilled-disabled=#3D4F5C;goal::slider-track-unfilled-disabled=#DDE2E8;goal::slider-track-unfilled=#5D6C7B;goal::slider-track-unfilled=#8494A3;goal::tracking_id=None;variant::bundle_variant=wwwig;variant::landing_dialog_v2_variant=0;variant::variant=None,optimizely,external::optimizely::https://static.cdninstagram.com/rsrc.php/v4i7M54/yu/l/en_US/vMKif8oa8fn.js
+x.com,,optimizely,"inline::optimizely::window.__INITIAL_STATE__={""optimist"":[],""entities"":{""broadcasts"":{""entities"":{},""errors"":{},""fetchStatus"":{}},""cards"":{""entities"":{},""errors"":{},""fetchStatus"":{}},""commerceItems"":{""entities"":{},""error"
+facebook.com,variant::show_invariant_decoder=False,optimizely,external::optimizely::https://static.xx.fbcdn.net/rsrc.php/v4ij9m4/yl/l/en_GB/Hbiyuc1lf6y.js
+diamonddumps.cc,,,
+netflix.com,goal::isCl2TrackingInfoMigrated=True;goal::logHighCardinalityTitlePageMetrics=False,optimizely,"inline::optimizely::window.netflix = window.netflix || {};         netflix.reactContext = {""title"":""metaTitleWithCountry"",""clPageName"":""nmLanding"",""pageName"":""fuji"",""trackingInfo"":{""flow"":""signupSimplicity"",""mode"":""welco"
+walmart.com,goal::enableCPHOrderTracking=False;goal::enableQuantumMetric=False;variant::buttonVariant=secondary;variant::buttonVariant=tertiary;variant::enableACCVariant=1;variant::enableAccQuantityNudgeVariantB=False;variant::enableExpressNudgeVariant=4;variant::enableExpressUpsellVariant=0;variant::enableFPCEAosVariant=4;variant::enablePACAOSVariants=1;variant::tagVariantType=NONE,,
+shopify.com,goal::vtp_trackingId=G-W6NECZNE63,google_optimize,"external::google_optimize::https://www.googletagmanager.com/gtm.js?id=GTM-TZ26LP8&dl=dataLayer;inline::google_optimize::(function(b){if(""undefined""===typeof b.utag){var c=function(a,d){a.utag_shim=!0;a.event=a.tealium_event;a.event_category=a.event_category||"""";a.event_action=a.event_action||"""";a.event_label=a.event_la;inline::google_optimize::if(window.drift)window.drift.on(""ready"",function(c){window.drift.on(""message:sent"",function(a){var b={event:""drift_message_sent""};a.conversationId&&(b.drift_conversation_id=a.conversationId);a.playboo"
+webusb.github.io,,,
+google.com,,,
+gametoys.com,,google_optimize,"inline::google_optimize:: window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);} gtag(""set"",""linker"",{""domains"":[""webstarter.com""]}); gtag(""js"", new Date()); gtag(""set"", ""developer_id.dZTNiMT"", ;inline::google_optimize:: window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag('js', new Date());gtag('config', 'G-FJYBNGSKXW', {} ); ;inline::google_optimize::try{(function(w,d){!function(fv,fw,fx,fy){if(fv.zaraz)console.error(""zaraz is loaded twice"");else{fv[fx]=fv[fx]||{};fv[fx].executed=[];fv.zaraz={deferred:[],listeners:[]};fv.zaraz._v=""5858"";fv.zaraz._"
+amazon.com,,,
+cashify.in,,,
+youtube.com,goal::clickTrackingParams=IhMI29zE1bCqjgMVQ4CmAx0RYSPW;goal::trackingParam=kx_fmPxhoPZRPzQwYKoFM8CBUrovYKfP8nbLMhkv4s05c_wRgkuswmIBwOcCE59TDtslLKPQ-SS;goal::trackingParams=CAwQ_6sBIhMIka7G1bCqjgMViovpBR3m9zqX,,
+mireillejean.com,goal::isTrackClicksAnalyticsEnabled=True;variant::specs.stores.AddComparePriceToVariantsItemsQueries=true;variant::specs.stores.AddHasDiscountToVariantsItemsQueries=true;variant::specs.stores.shouldCheckDiscountInVariantLevel=true;variant::specs.stores.shouldCheckDiscountInVariantLevelGallery=true,,
+flipkart.com,,,
+iacchite.blog,,,
+microsoft.com,goal::track=False;goal::track=True,adobe_target;google_optimize;optimizely,"inline::adobe_target::_satellite[""__runScript7""](function(event, target) { // BINGUET try { 	(function (w, d, t, r, u) { 		var f, 		n, 		i; 		w[u] = w[u] || [], 		f = function () { 			var o = { 				ti: ""4000034"", navTiming;inline::google_optimize::_satellite[""__runScript1""](function(event, target) { try {     var _TMDL = {         busgrp: [],         cc: ""Unknown"",         isprod: false,         geo: """",         host: window.location.hostname.t;inline::optimizely::_satellite[""__runScript1""](function(event, target) { try {     var _TMDL = {         busgrp: [],         cc: ""Unknown"",         isprod: false,         geo: """",         host: window.location.hostname.t"
+mireillejean.com,goal::isTrackClicksAnalyticsEnabled=True;variant::specs.stores.AddComparePriceToVariantsItemsQueries=true;variant::specs.stores.AddHasDiscountToVariantsItemsQueries=true;variant::specs.stores.shouldCheckDiscountInVariantLevel=true;variant::specs.stores.shouldCheckDiscountInVariantLevelGallery=true,,
+elitedesignsunlimited.biz,,google_optimize;optimizely,external::google_optimize::https://img1.wsimg.com/traffic-assets/js/tccl-tti.min.js;external::optimizely::https://img1.wsimg.com/blobby/go/static/radpack/@widget/MESSAGING/bs-Component-f8ad65d1.js
+financialblock.biz,,,
+commodityholding.com,,,
+projectsupplychain.ch,goal::isTrackClicksAnalyticsEnabled=False,,
+sheepdogsfleece.blogspot.com.br,,,
+northstardevelopment.ca,,,
+allaboutleaks.com,,,
+vnwork.com,,,
+remiwagner.com,goal::clickTrackingParams=IhMI5NCoobGqjgMVb1j1BR0cITIV;goal::trackingParam=kx_fmPxhoPZRbBtlQ7g-ooU9DOeSIttRL2tHD1kBotCNvNwRgkuswmIBwOcCE59TDtslLKPQ-SS;goal::trackingParams=CAwQ_6sBIhMI8OiqobGqjgMVB0b1BR2bZBna;goal::trackingParams=CC0QjmIiEwjw6KqhsaqOAxUHRvUFHZtkGdo=;goal::trackingParams=CDQQjmIiEwjw6KqhsaqOAxUHRvUFHZtkGdo=;goal::trackingParams=CDcQzS8iEwjw6KqhsaqOAxUHRvUFHZtkGdo=;goal::trackingParams=CDsQjmIiEwjw6KqhsaqOAxUHRvUFHZtkGdo=;goal::trackingParams=CEIQjmIiEwjw6KqhsaqOAxUHRvUFHZtkGdo=;goal::trackingParams=CEkQjmIiEwjw6KqhsaqOAxUHRvUFHZtkGdo=;goal::trackingParams=CEwQzS8iEwjw6KqhsaqOAxUHRvUFHZtkGdo=;goal::trackingParams=CF4QjmIiEwjw6KqhsaqOAxUHRvUFHZtkGdo=;goal::trackingParams=CFAQjmIiEwjw6KqhsaqOAxUHRvUFHZtkGdo=;goal::trackingParams=CFMQzS8iEwjw6KqhsaqOAxUHRvUFHZtkGdo=;goal::trackingParams=CFcQjmIiEwjw6KqhsaqOAxUHRvUFHZtkGdo=;goal::trackingParams=CGEQzS8iEwjw6KqhsaqOAxUHRvUFHZtkGdo=;goal::trackingParams=CGUQjmIiEwjw6KqhsaqOAxUHRvUFHZtkGdo=;goal::trackingParams=CGwQjmIiEwjw6KqhsaqOAxUHRvUFHZtkGdo=;goal::trackingParams=CHMQjmIiEwjw6KqhsaqOAxUHRvUFHZtkGdo=;goal::trackingParams=CHoQjmIiEwjw6KqhsaqOAxUHRvUFHZtkGdo=;goal::trackingParams=CI4BEI5iIhMI8OiqobGqjgMVB0b1BR2bZBna;goal::trackingParams=CIcBEI5iIhMI8OiqobGqjgMVB0b1BR2bZBna;goal::trackingParams=CJUBEI5iIhMI8OiqobGqjgMVB0b1BR2bZBna;goal::trackingParams=CJgBEM0vIhMI8OiqobGqjgMVB0b1BR2bZBna;goal::trackingParams=CJwBEI5iIhMI8OiqobGqjgMVB0b1BR2bZBna;goal::trackingParams=CKMBEI5iIhMI8OiqobGqjgMVB0b1BR2bZBna;goal::trackingParams=CKoBEI5iIhMI8OiqobGqjgMVB0b1BR2bZBna;goal::trackingParams=CLEBEI5iIhMI8OiqobGqjgMVB0b1BR2bZBna,,
+becoveredinsurance.com.au,goal::floatingButtonsClickTracking=f22f28d140,google_optimize,"inline::google_optimize::   window.dataLayer = window.dataLayer || [];   function gtag(){dataLayer.push(arguments);}   gtag('js', new Date());    gtag('config', 'G-YJLBYD6E9H'); ;inline::google_optimize::(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.sr"
+janajoana.com.br,,,
+yudaren.com,,,
+greenelements.biz,goal::is_shortcode_tracking=,google_optimize;instapage,"inline::google_optimize::   window.dataLayer = window.dataLayer || [];   function gtag(){dataLayer.push(arguments);}   gtag('js', new Date());    gtag('config', 'AW-11074126871'); ;inline::instapage:: /* <![CDATA[ */ var DIVI = {""item_count"":""%d Item"",""items_count"":""%d Items""}; var et_builder_utils_params = {""condition"":{""diviTheme"":true,""extraTheme"":false},""scrollLocations"":[""app"",""top""],""builder"
+reconnaissance.agency,,google_optimize,"inline::google_optimize::   window.dataLayer = window.dataLayer || [];   function gtag(){dataLayer.push(arguments);}   gtag('js', new Date());    gtag('config', 'UA-43623408-25'); "
+phyziyx.codes,,,
+carballoac.com,,,
+charlieprint.com,,,
+allheartweb.com,,ab_tasty;google_optimize;optimizely,"external::ab_tasty::https://static.hotjar.com/c/hotjar-3373635.js?sv=7;external::optimizely::https://static.hotjar.com/c/hotjar-3373635.js?sv=7;inline::google_optimize:: (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.s"
+kidwearz.com,,,
+lunchbuddies.ca,,,
+jeanmarieq.com,,,
+bmg-schulungscenter.com,,,
+crowdcontrol.band,,google_optimize,"external::google_optimize::https://crowdcontrol.band/_resources/vendor/xddesigners/silverstripe-cookieconsent/client/dist/js/cookieconsent.js?m=1741798948;inline::google_optimize::                     // Define dataLayer and the gtag function.                     window.dataLayer = window.dataLayer || [];                     function gtag(){dataLayer.push(arguments);}          ;inline::google_optimize::                   window.dataLayer = window.dataLayer || [];                   function gtag(){dataLayer.push(arguments);}                   gtag('js', new Date());                   gtag('config', '"
+fra-comp.ch,,,
+maynard.cloud,,,
+wsr-cpa.com,goal::floatingButtonsClickTracking=c19fa1e730,google_optimize,"inline::google_optimize:: 			window.dataLayer = window.dataLayer || []; 			function gtag(){dataLayer.push(arguments);} 			gtag('js', new Date()); 			gtag('config', 'G-W56L89EJPK'); 		"
+sifangmiye.com,,,
+ehuozhan.com,,,
+seppedekeyser.be,,,
+hotelasara.com,,,
+grupopicsign.com.br,,google_optimize,"external::google_optimize::https://www.googletagmanager.com/gtag/js?id=GTM-TQWJVVN;external::google_optimize::https://www.googletagmanager.com/gtm.js?id=GTM-TQWJVVN;inline::google_optimize:: window.dataLayer = window.dataLayer || [];  function gtag() {     dataLayer.push(arguments); } gtag('js', new Date());  gtag('config', 'GTM-TQWJVVN'); ;inline::google_optimize::(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':         new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],         j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j"
+interlocked.app,,google_optimize,"inline::google_optimize::     window.dataLayer = window.dataLayer || [];     function gtag(){dataLayer.push(arguments);}     gtag('js', new Date());      gtag('config', 'G-Z995FTCDYL');   "
+magazinetrials.com,,,
+landandnewhome.com,,google_optimize,"external::google_optimize::https://www.googletagmanager.com/gtm.js?id=GTM-M7KBVQX;inline::google_optimize::         function supportsWebp() {             if (!self.createImageBitmap) return false;              const webpData = 'data:image/webp;base64,UklGRh4AAABXRUJQVlA4TBEAAAAvAAAAAAfQ//73v/+BiOh/AAA=';  ;inline::google_optimize::function getIP(a){dataLayer.push({event:""ipEvent"",ipAddress:a.ip})};"
+rtpghk9.buzz,,,
+kushyboutique.com,goal::ecom.checkout.cmi.bootstrap-tracking-ga=True;goal::ecom.checkout.cmi.bootstrap-tracking-snowplow=True,google_optimize;launchdarkly;optimizely,"external::optimizely::https://cdn-promote.weebly.com/js/dist/lead-form.js;inline::google_optimize::         window.dataLayer = window.dataLayer || [];         function gtag(){dataLayer.push(arguments);}         gtag('js', new Date());     ;inline::google_optimize::     window.dataLayer = window.dataLayer || []; 	function gtag(){dataLayer.push(arguments);} 	// Note we don't include the gtag config here as it's triggered in PublishedApp.vue 	// and would otherwis;inline::launchdarkly::         window.__BOOTSTRAP_STATE__ = {""siteData"":{""site"":{""id"":""e85a8fd0-6ded-11ea-af89-c76792789cb4"",""properties"":{""classicSiteID"":""142478099899523921"",""catalogSiteId"":""142478099899523921"",""selected;inline::launchdarkly::     window.__DYNAMIC_BOOTSTRAP__ ??= {};      Object.assign(window.__DYNAMIC_BOOTSTRAP__, {         featureFlags: {""ecom.website.deprecated-layouts"":false,""marketing-enable-drive-repeat-purchase-camp"
+canlum.ca,,,
+aluminumalloycasting.com,,google_optimize,"external::google_optimize::https://www.googletagmanager.com/gtm.js?id=GTM-P7KR7ST;inline::google_optimize::   window.dataLayer = window.dataLayer || [];   function gtag(){dataLayer.push(arguments);}   gtag('js', new Date());    gtag('config', 'UA-69772116-1'); ;inline::google_optimize::(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.sr"
+larochellemadame.com,,,
+bubble-action.com,,,
+adasapeugeot.com,,,
+elitedesignsunlimited.biz,,google_optimize;optimizely,external::google_optimize::https://img1.wsimg.com/traffic-assets/js/tccl-tti.min.js;external::optimizely::https://img1.wsimg.com/blobby/go/static/radpack/@widget/MESSAGING/bs-Component-f8ad65d1.js
+5gvip.click,,,
+gmdelasalle.ca,goal::track=True;goal::vtp_trackingId=G-6X7E0YRYHR,google_optimize,"inline::google_optimize:: /*<![CDATA[*/ //data-scoderef=""ZZZ-4155648"" var currentSiteID=697;var d2c_gaAccounts={""all"":[],""internal"":[]};var d2c_awcId='AW-785491813';var d2c_awcLabel='X0qECNnUvIoBEOXOxvYC';var legacy_ga=false;"
+windeol.com,goal::vtp_trackingId=G-39W2WDBWM7,,
+chen-traiteur-le-mouret.ch,,,
+flatlaw.ca,,,
+comexya.com,goal::vtp_trackingId=G-X4H5RVSTEM,,
+bj316.com.cn,goal::allowTracking=True,,
+midcanterburyanglicans.com,,,
+emergency-drain-cleaning-2601.click,,,
+bluware.com.br,,google_optimize,"external::google_optimize::https://www.googletagmanager.com/gtm.js?id=GTM-MN585NF;inline::google_optimize::(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.sr;inline::google_optimize::var dataLayer_content = {""pagePostType"":""frontpage"",""pagePostType2"":""single-page"",""pagePostAuthor"":""vimedigital""}; 	dataLayer.push( dataLayer_content );;inline::google_optimize::var gtm4wp_datalayer_name = ""dataLayer""; 	var dataLayer = dataLayer || [];;inline::google_optimize::window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)} gtag('js',new Date());gtag('config','G-RDN7FNKJRL')"
+mountainarchitects.com,"goal::vtp_setTrackerName=False;goal::vtp_trackingId=UA-1652491-1;goal::vtp_trackingId=['macro', 11]",google_optimize;launchdarkly,"external::google_optimize::https://www.googletagmanager.com/gtm.js?id=GTM-KHRS5R6;external::launchdarkly::https://www.googletagmanager.com/gtag/destination?id=AW-944783394&cx=c&gtm=45je5710v876368656za200zb76387269&tag_exp=101509157~103116026~103200004~103233427~103351869~103351871~104684208~104684211~104718208~104839054~104839056~104885889~104885891;external::launchdarkly::https://www.googletagmanager.com/gtag/destination?id=AW-965285746&cx=c&gtm=45je5710v876368656za200zb76387269&tag_exp=101509157~103116026~103200004~103233427~103351869~103351871~104684208~104684211~104718208~104839054~104839056~104885889~104885891;inline::google_optimize::(function(){function h(b){""undefined""!==typeof jQuery?(k=jQuery,n()):20>b&&setTimeout(h,500)}function n(){k(document).bind(""ajaxComplete"",function(b,a,f){var c=document.createElement(""a"");c.href=f.url;inline::google_optimize::(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.sr;inline::google_optimize::document.addEventListener(""wpcf7mailsent"",function(a){window.dataLayer.push({event:""cf7submission"",formId:a.detail.contactFormId,response:a.detail.inputs})});"
+bestlabels.ch,,google_optimize,"inline::google_optimize::   window.dataLayer = window.dataLayer || [];   function gtag(){dataLayer.push(arguments);}   gtag('js', new Date());    gtag('config', 'G-LK515DWW0B'); "
+hitchingpostkellogg.com,,,
+womenshealingsanctuary.com.au,goal::allowTracking=True;goal::is_shortcode_tracking=,google_optimize;instapage;launchdarkly,"external::google_optimize::https://www.googletagmanager.com/gtm.js?id=GTM-K73KXM72;external::launchdarkly::https://www.googletagmanager.com/gtag/js?id=G-JXLVBSD24C&cx=c&gtm=45je5710v884554839za200zb9199203207&tag_exp=101509157~103116026~103200004~103233427~103351869~103351871~104684208~104684211~104718208~104839054~104839056~104879961~104885889~104885891;inline::google_optimize::   window.dataLayer = window.dataLayer || [];   function gtag(){dataLayer.push(arguments);}   gtag('js', new Date());    gtag('config', 'G-2R0T2Q7K6F'); ;inline::google_optimize:: /* <![CDATA[ */  			( function( w, d, s, l, i ) { 				w[l] = w[l] || []; 				w[l].push( {'gtm.start': new Date().getTime(), event: 'gtm.js'} ); 				var f = d.getElementsByTagName( s )[0], 					j = d.;inline::google_optimize:: /* <![CDATA[ */ window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);} gtag(""set"",""linker"",{""domains"":[""womenshealingsanctuary.com.au""]}); gtag(""js"", new Date()); gtag(;inline::google_optimize:: window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'AW-16683873269'); ;inline::instapage:: /* <![CDATA[ */ var DIVI = {""item_count"":""%d Item"",""items_count"":""%d Items""}; var et_builder_utils_params = {""condition"":{""diviTheme"":true,""extraTheme"":false},""scrollLocations"":[""app"",""top""],""builder"
+weightdehman.club,,,
+centerstepmarketing.com,goal::floatingButtonsClickTracking=9349e257d7;goal::vtp_trackingId=G-DRQJCBKQKM,google_optimize;optimizely,"inline::google_optimize:: window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);} gtag(""set"",""linker"",{""domains"":[""www.centerstepmarketing.com""]}); gtag(""js"", new Date()); gtag(""set"", ""developer_;inline::optimizely:: var elementorFrontendConfig = {""environmentMode"":{""edit"":false,""wpPreview"":false,""isScriptDebug"":false},""i18n"":{""shareOnFacebook"":""Share on Facebook"",""shareOnTwitter"":""Share on Twitter"",""pinIt"":""Pin "
+dfresearch.ca,,,
+professionallaw.cf,,,
+jpcompconsulting.com,,,
+frikart.com,,,
+fiuma.com,goal::vtp_trackingId=G-5243WNRXFG,google_optimize,"inline::google_optimize::             window.dataLayer = window.dataLayer || [];             function gtag(){dataLayer.push(arguments);}             gtag('js', new Date());             gtag('config', 'UA-51651642-1');        "
+hataybahcesi.com,,,
+onecompanyundergod.com,,,
+wwcnet.com,,,
+katiesquiltingcorner.com,,,
+sandyssignatures.blogspot.ca,,,
+cytfchile.cl,,,
+mcgillibd.com,,,
+adasapeugeot.com,,,
+krustykrab.club,,,
+phillipsenn.com,,google_optimize,external::google_optimize::https://phillipsenn.com/Inc/header.js
+poseidonbk.com.au,,,
+abohashimaahmad.com,,google_optimize,"inline::google_optimize:: window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-LFWZTZ0XN7'); "
+rkcollege.com,,,
+hotrings.com,,,
+henlo.cloud,,,
+adionamontessori.com,,,
+legaladvicenow.com,,,
+jimtheodorestudio.com,,google_optimize;optimizely,external::google_optimize::https://img1.wsimg.com/traffic-assets/js/tccl-tti.min.js;external::optimizely::https://img1.wsimg.com/blobby/go/static/radpack/@widget/MESSAGING/bs-Component-f8ad65d1.js
+caribeimoveis.com.br,,,
+jsfair.com,,,
+777help.com,,,
+decenthardware.com,goal::allowTracking=True;goal::floatingButtonsClickTracking=7b28bec409,google_optimize;optimizely,"inline::google_optimize::try{(function(w,d){!function(fv,fw,fx,fy){if(fv.zaraz)console.error(""zaraz is loaded twice"");else{fv[fx]=fv[fx]||{};fv[fx].executed=[];fv.zaraz={deferred:[],listeners:[]};fv.zaraz._v=""5858"";fv.zaraz._;inline::google_optimize::window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag(""set"",""linker"",{""domains"":[""www.decenthardware.com""]});gtag(""js"", new Date());gtag(""set"", ""developer_id.dZTNiM;inline::optimizely::var elementorFrontendConfig = {""environmentMode"":{""edit"":false,""wpPreview"":false,""isScriptDebug"":false},""i18n"":{""shareOnFacebook"":""Share on Facebook"",""shareOnTwitter"":""Share on Twitter"",""pinIt"":""Pin i"
+elliotrossiter.ca,,,
+steka.com,,,
+energymadeeasy.com.au,,google_optimize;launchdarkly,"inline::google_optimize::(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.sr;inline::google_optimize::{""props"":{""pageProps"":{""homePageRefData"":{""postcodeExceptions"":{""3644"":{""postcode"":""3644"",""state"":""NSW""},""3691"":{""postcode"":""3691"",""state"":""NSW""},""3707"":{""postcode"":""3707"",""state"":""NSW""}}},""langResour;inline::launchdarkly::window.__APP_CONFIG={version:""3.0.1241"", api: {""cms"":""https://api.energymadeeasy.gov.au/cms"",""consumerplan"":""https://api.energymadeeasy.gov.au/consumerplan"",""contactus"":""https://api.energymadeeasy.gov"
+ctrl-f.be,goal::is_shortcode_tracking=,ab_tasty;google_optimize;instapage;optimizely,"external::ab_tasty::https://static.hotjar.com/c/hotjar-2001777.js?sv=7;external::google_optimize::https://n382.ctrl-f.be/script.js;external::google_optimize::https://www.googletagmanager.com/gtm.js?id=GTM-5MHCSL5;external::optimizely::https://static.hotjar.com/c/hotjar-2001777.js?sv=7;inline::google_optimize::(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.sr;inline::instapage:: /* <![CDATA[ */ var DIVI = {""item_count"":""%d Item"",""items_count"":""%d Items""}; var et_builder_utils_params = {""condition"":{""diviTheme"":true,""extraTheme"":false},""scrollLocations"":[""app"",""top""],""builder"
+myrobothink.com.au,goal::floatingButtonsClickTracking=695dd1c7ed,optimizely,"inline::optimizely::var elementorFrontendConfig = {""environmentMode"":{""edit"":false,""wpPreview"":false,""isScriptDebug"":false},""i18n"":{""shareOnFacebook"":""Share on Facebook"",""shareOnTwitter"":""Share on Twitter"",""pinIt"":""Pin i"
+suterra.com,"goal::vtp_trackingId=['macro', 1]",ab_tasty;google_optimize;optimizely,"external::ab_tasty::https://static.hotjar.com/c/hotjar-2947096.js?sv=6;external::google_optimize::https://js.hsadspixel.net/fb.js;external::google_optimize::https://www.googletagmanager.com/gtm.js?id=GTM-WDVWLX4;external::optimizely::https://static.hotjar.com/c/hotjar-2947096.js?sv=6;inline::google_optimize:: var _hsp = window._hsp = window._hsp || []; window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);}  var useGoogleConsentModeV2 = true; var waitForUpdateMillis = 1000; ;inline::google_optimize::(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j."
+designaid.be,goal::floatingButtonsClickTracking=3a3cc32f95,google_optimize;optimizely,"inline::google_optimize:: 	window.dataLayer = window.dataLayer || []; 	function gtag(){dataLayer.push(arguments);} 	gtag('js', new Date());  	gtag('config', 'G-WZCLM21NL8'); 	;inline::optimizely:: var elementorFrontendConfig = {""environmentMode"":{""edit"":false,""wpPreview"":false,""isScriptDebug"":false},""i18n"":{""shareOnFacebook"":""Deel via Facebook"",""shareOnTwitter"":""Deel via Twitter"",""pinIt"":""Pin "
+ehcservices.biz,,,
+mfmlive.com,,,
+naturhorses.be,,,
+serphacker.com,,,
+imaginariogaleria.com.ar,goal::floatingButtonsClickTracking=94379594d3,google_optimize,"inline::google_optimize::   window.dataLayer = window.dataLayer || [];   function gtag(){dataLayer.push(arguments);}   gtag('js', new Date());    gtag('config', 'G-232JM9YXB5'); "
+moosletter.com,,,
+online-college-scholarships-grants.click,,google_optimize,"inline::google_optimize::(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.sr;inline::google_optimize::window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag(""js"",new Date);gtag(""config"",""AW-726522358"");"
+malindi.africa,,,
+depanes.com.br,,,
+fenixconsult.biz,,,
+jiaoyv.cn,,,
+rubberbrands.com,,,
+hernborg.com,,,
