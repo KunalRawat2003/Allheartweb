@@ -11,7 +11,7 @@ HEADERS = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/
     "Accept-Language": "en-US,en;q=0.5",
     "Connection": "keep-alive"}
 
-TIMEOUT = ClientTimeout(total=30)
+TIMEOUT = ClientTimeout(total=60)
 CONCURRENCY = 10
 batch_start = 0
 batch_end = 200
@@ -497,7 +497,7 @@ def load_domains(filename):
     with open(filename, "r", encoding= "utf-8") as f:
         return [line.strip() for line in f if line.strip()][batch_start:batch_end]
     
-def save_to_csv(results, filename="mvc_frameworks6.csv"):
+def save_to_csv(results, filename="mvc_frameworks7.csv"):
     with open(filename, "a", newline="", encoding="utf-8") as f:
         writer = csv.writer(f)
         writer.writerow(["Domain", "Frameworks", "Sources"])
